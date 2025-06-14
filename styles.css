@@ -14,7 +14,7 @@ nav {
   align-items: center;
   justify-content: space-between;
   width: 1050px;
-  margin: 12px auto;
+  margin: 16px auto;
 }
 ul {
   display: flex;
@@ -25,12 +25,12 @@ ul {
 }
 
 li {
-  color: #f8e1fd;
+  color: #f6e5fa;
   font-size: 18px;
 }
 
 .logo {
-  color: #d18ede;
+  color: #f648f0;
   font-size: 24px;
   font-weight: 930;
   display: flex;
@@ -47,8 +47,7 @@ li {
   display: flex;
   align-items: center;
   gap: 30px;
-  justify-content: center;
-  padding: 60px;
+  padding: 60px 0;
   width: 1050px;
   margin: auto;
 }
@@ -58,25 +57,25 @@ li {
 }
 
 .hero-text > h1  {
-  color: #f8e1fd;
+  color: #f6e5fa;
   font-size: 48px;
   font-weight: 900;
   margin: 0;
 }
 
 .hero-text > p {
-  color: #f8e1fd;
+  color: #f6e5fa;
   font-size: 18px;
   margin: 20px 0;
 }
 
 img {
   width: 800px;
-  height: 500px;
+  height: 530px;
 }
 
 .hero-text > button {
-  color: white;
+  color: #f6e5fa;
   background-color: #094fba;
   border: 0;
   padding: 10px 30px;
@@ -132,8 +131,7 @@ img {
 .quote-text {
   text-align: justify;
   font-size: 36px;
-  color: #1F2937;
-  font-style: italic;
+  color: #0b254d;
 }
 
 .quote-author {
@@ -146,7 +144,7 @@ img {
 }
 
 .container {
-  background-color: #3882F6;
+  background-color: #0b254d;
   display: flex;
   margin: auto;
   max-width: 1050px;
@@ -161,35 +159,36 @@ img {
 }
 
 .cta-main > h3 {
-  color: #F9FAF8;
+  color: #f6e5fa;
   margin: 0;
   font-size: 26px;
 }
 
 .cta-main > p {
-  color: #E5E7EB;
+  color: #f6e5fa;
   margin: 0;
   font-size: 18px;
+  width: 500px;
 }
 
 .container > button {
   color: white;
-  background-color: #3882F6;
+  background-color: #0b254d;
   border: 0;
   padding: 10px 30px;
   border-radius: 10px;
   font-size: 16px;
   font-weight: 700;
-  border: 3px solid #F9FAF8;
+  border: 3px solid #f6e5fa;
 }
 
 
 footer {
-  background-color: #1F2937;
+  background-color: #fdf3ff;
 }
 
 footer > p {
-  color: #E5E7EB;
+  color: #0b254d;
   text-align: center;
   margin: 40px 0;
 }
