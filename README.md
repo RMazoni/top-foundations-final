@@ -1,5 +1,5 @@
-This project is part of the The Odin Project foundations course. The goal here is to practice the concepts of HTML and CSS
-that were presented along the path.
+This project is part of the The Odin Project foundation course. The goal here is to practice the concepts of HTML and CSS
+that were presented along the path. With this first project I'm not concerned about making the page responsive, since I haven't acquired this knowledge yet.
 
 The project started with the default design shown below.
 
@@ -7,10 +7,8 @@ The project started with the default design shown below.
 
 After that, I changed the content to a more real-world project, which is the final version with the fleet management subject.
 
-![alt text](image-1.png)
+![alt text](image-2.png)
 
-
-I
 All the icons have been downloaded from Flaticon.com
 
 https://www.flaticon.com/authors/super-basic-orbit/color/7?author_id=1&type=standard
